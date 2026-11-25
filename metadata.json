@@ -1,0 +1,6 @@
+{
+  "name": "SISTO MASTER",
+  "description": "Plateforme éducative camerounaise de la SIL à l'Université — Voix, Hors-ligne, 3 Langues (Français, Fulfulde, English), Parents, École et Certification.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
